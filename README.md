@@ -1,5 +1,5 @@
 ## Resultado Final
 
-![index](images/index.png)
-![index](images/index2.png)
+![index](site-beira-rio/index.png)
+![index](site-beira-rio/index2.png)
 
